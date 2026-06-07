@@ -1,0 +1,11 @@
+Path,Count,Total_Revenue,Avg_Revenue
+Google Ads,142,38998.88,274.64
+Email,124,34989.46,282.17
+Instagram,123,32817.57,266.81
+Facebook,117,31717.39,271.09
+YouTube,115,31671.49,275.4
+Website,114,29926.64,262.51
+YouTube → Email,30,9829.73,327.66
+Website → Instagram,27,7017.66,259.91
+Instagram → Google Ads,24,6564.5,273.52
+YouTube → Google Ads,24,7215.57,300.65
