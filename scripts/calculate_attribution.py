@@ -65,7 +65,7 @@ summary = df.groupby('Marketing_Channel').agg(
     Linear_Revenue        = ('Linear',         'sum'),
     Time_Decay_Revenue    = ('Time_Decay',     'sum'),
     Position_Based_Revenue= ('Position_Based', 'sum'),
-    Total_Conversions     = ('Converted',      'sum'),
+    Total_Conversions     = ('Conversion_Flag',      'sum'),
     Total_Touchpoints     = ('Journey_ID',     'count'),
 ).round(2)
 
